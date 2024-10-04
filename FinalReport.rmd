@@ -103,3 +103,5 @@ In the fisherXY test all the p values were different and are all very low. The p
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Using 3000 variables the Master branch showed us that the white group favors capitol punishment and the black group and the other group oppose capitol punishment. The graphs we made differ in the master branch as we see when we focused our variable to 821 in the number 2 branch so our data had a different conclusion. As the number 2 branch would have a 2:1 ratio of favor for the white group compared to the master branch would have a much closer graph with around 2:3 ratio in favor. The biggest difference is the change with the other group, as they would be seen to have a higher number that oppose capital punishment in the master branch while the number 2 branch they have a higher number in favor of capital difference.
